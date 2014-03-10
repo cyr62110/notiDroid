@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/cyr62110/notiDroid-firmware.git
+[submodule "cloudBackend"]
+	path = cloudBackend
+	url = https://github.com/cyr62110/notiDroid-cloudBackend.git
