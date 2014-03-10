@@ -3,4 +3,13 @@
 	url = https://github.com/cyr62110/notiDroid-firmware.git
 [submodule "cloudBackend"]
 	path = cloudBackend
-	url = https://github.com/cyr62110/notiDroid-cloudBackend.git
+	url = https://github.com/cyr62110/notiDroid-androidClient.git
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/cyr62110/notiDroid-hardware.git
+[submodule "clients/web"]
+	path = clients/web
+	url = https://github.com/cyr62110/notiDroid-webClient.git
+[submodule "clients/android"]
+	path = clients/android
+	url = https://github.com/cyr62110/notiDroid-androidClient.git
