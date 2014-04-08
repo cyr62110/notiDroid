@@ -3,7 +3,7 @@
 	url = https://github.com/cyr62110/notiDroid-firmware.git
 [submodule "cloudBackend"]
 	path = cloudBackend
-	url = https://github.com/cyr62110/notiDroid-cloudBackend
+	url = https://github.com/cyr62110/notiDroid-cloudBackend.git
 [submodule "hardware"]
 	path = hardware
 	url = https://github.com/cyr62110/notiDroid-hardware.git
