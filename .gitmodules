@@ -13,3 +13,6 @@
 [submodule "clients/android"]
 	path = clients/android
 	url = https://github.com/cyr62110/notiDroid-androidClient.git
+[submodule "deploy"]
+	path = deploy
+	url = https://github.com/cyr62110/notiDroid-deploy.git
